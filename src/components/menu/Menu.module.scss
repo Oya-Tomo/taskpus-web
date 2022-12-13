@@ -1,0 +1,34 @@
+.menu {
+    width: 80px;
+    height: 100vh;
+    background-color: rgb(230, 100, 100);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .logo {
+        width: 100%;
+        aspect-ratio: 0.7;
+    }
+
+    .division {
+        width: 100%;
+        height: 10px;
+        display: flex;
+        text-align: center;
+        align-items: center;
+
+        div {
+            width: 80%;
+            height: 2px;
+            margin: auto;
+            background-color: white;
+        }
+    }
+
+    .item {
+        width: 80%;
+        margin: 5px 10px;
+        aspect-ratio: 1;
+    }
+}

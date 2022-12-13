@@ -1,0 +1,11 @@
+.page {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+
+    .contents {
+        flex: 1;
+        height: 100vh;
+        overflow: auto;
+    }
+}

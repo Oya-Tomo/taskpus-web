@@ -1,0 +1,31 @@
+.base {
+    width: min-content;
+    height: min-content;
+    padding: 4px;
+    background-color: white;
+    border-radius: 2em;
+    box-sizing: border-box;
+
+    .line {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 6px 10px;
+        background-color: white;
+        border-radius: 2em;
+        border: 4px rgb(230, 100, 100) solid;
+        box-sizing: border-box;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        color: rgb(200, 80, 80);
+        user-select: none;
+        white-space: nowrap;
+    }
+
+    &:active {
+        .line {
+            border: 4px rgb(190, 70, 70) solid;
+        }
+    }
+}

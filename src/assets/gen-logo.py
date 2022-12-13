@@ -1,0 +1,5 @@
+size = 256
+
+HEAD_CIRCLE_ANCHOR = ()
+HEAD_CIRCLE_RADIUS = ()
+
