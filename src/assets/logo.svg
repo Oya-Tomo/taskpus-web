@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
-    <rect width="500" height="500" />
-    <circle cx="250" cy="250" r="250" fill="red"/>
-    <circle cx="250" cy="200" r="120" stroke="white" stroke-width="20" fill="white"/>
-    <path stroke="white" stroke-width="30" stroke-linecap="round" d="M 250 200 Q 350 450 420 300 " fill="transparent"/>
-    <path stroke="white" stroke-width="30" stroke-linecap="round" d="M 250 200 Q 300 450 370 400 " fill="transparent"/>
-    <path stroke="white" stroke-width="30" stroke-linecap="round" d="M 250 200 Q 250 400 250 430 " fill="transparent"/>
-    <path stroke="white" stroke-width="30" stroke-linecap="round" d="M 250 200 Q 200 450 130 400 " fill="transparent"/>
-    <path stroke="white" stroke-width="30" stroke-linecap="round" d="M 250 200 Q 150 450 80 300 " fill="transparent"/>
-    <path stroke="red" stroke-width="20" stroke-linecap="round" d="M 180 180 L 230 230 L 320 160" fill="transparent" />
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+    <circle cx="128.0" cy="128.0" r="122.88" stroke="rgb(230, 100, 100)" stroke-width="10.24" fill="transparent"/>
+    <path stroke="rgb(230, 100, 100)" stroke-width="15.36" stroke-linecap="round" d="M 128.0 102.4 Q 179.2 230.4 215.04 153.6 " fill="transparent"/>
+    <path stroke="rgb(230, 100, 100)" stroke-width="15.36" stroke-linecap="round" d="M 128.0 102.4 Q 153.6 230.4 189.44 204.8 " fill="transparent"/>
+    <path stroke="rgb(230, 100, 100)" stroke-width="15.36" stroke-linecap="round" d="M 128.0 102.4 Q 128.0 204.8 128.0 220.16 " fill="transparent"/>
+    <path stroke="rgb(230, 100, 100)" stroke-width="15.36" stroke-linecap="round" d="M 128.0 102.4 Q 102.4 230.4 66.56 204.8 " fill="transparent"/>
+    <path stroke="rgb(230, 100, 100)" stroke-width="15.36" stroke-linecap="round" d="M 128.0 102.4 Q 76.8 230.4 40.96 153.6 " fill="transparent"/>
+    <circle cx="128.0" cy="102.4" r="61.44" stroke="rgb(230, 100, 100)" stroke-width="10.24" fill="rgb(230, 100, 100)"/>
+    <path stroke="white" stroke-width="10.24" stroke-linecap="round" d="M 92.16 92.16 L 117.76 117.76 L 163.84 81.92" fill="transparent" />
 </svg>

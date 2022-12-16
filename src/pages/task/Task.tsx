@@ -7,7 +7,16 @@ const Task = () => {
         <div className={style["page"]}>
             <Menu />
             <main className={style["contents"]}>
-                <h1>Tasks</h1>
+                <div>
+                    <div>
+                        <h1>Tasks</h1>
+                    </div>
+                    <div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
             </main>
         </div>
     );
